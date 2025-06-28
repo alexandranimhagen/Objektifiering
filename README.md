@@ -19,3 +19,17 @@ Så här kör du
 1. Klona repot:
    ```bash
    git clone https://github.com/alexandranimhagen/Objektifiering.git
+   Öppna projektet i din Java IDE (t.ex. IntelliJ eller Eclipse)
+
+Kör huvudklassen, t.ex. Main.java
+
+Vad jag lärde mig
+Det här projektet hjälpte mig att:
+
+Förstå och tillämpa objektorienterad design i praktiken
+
+Arbeta med arv, gränssnitt och klassstrukturer
+
+Bygga strukturerad, återanvändbar och tydlig kod
+
+Detta är ett övningsprojekt från min Java-utbildning och visar min förståelse för OOP-grunder i Java.
